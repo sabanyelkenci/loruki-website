@@ -36,6 +36,7 @@ A simple little website for the world to know a little about us.
 
 ### Wireframe
 
+![Wireframe](../images/New%20Wireframe%201.png)
 
 
 ### Create Readme, development-strategy and create project in GitHub
