@@ -24,6 +24,7 @@ A collection of user stories you can choose from. Stories inside of each priorit
   
  - As a user, I want to see the features of the service, so that I can choose the right service for my needs. 
    - [ ] _Given the user want to see the features of the company, there must be a brief information about it on the home page with a 'Read More' button to go to the page related to features._
+
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary.
