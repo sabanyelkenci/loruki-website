@@ -2,23 +2,35 @@
 
 ---
 
-## Communication Schedule
+## Communication Schedule of Group 4
+When and how often will you meet? what will you discuss at these meetings? ..
 
+Work progress is updated regularly on [![SlACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://hackyourfuturebe.slack.com/archives/C01JN6ZJ92M)
 
+Daily video call organized using Zoom or Google Meet.
+
+Discussion: the group work progress and learning experience (sharing knowledge).
 
 ## Communication Channels
 
 As a team we come up with a plan for how to use each communication channel. What will we discuss on each one? How often will we get in touch on each channel? Below is a starter list of different ways to communicate:
 
-- **Planning Documents**:
-- **Slack Messaging**:
-- **Video Calls**:
-- **Issues**:
-- **Pull Requests**:
+- **Planning Documents**: daily basis.
+- **Slack Messaging**: daily basis.
+- **Video Calls**: daily basis.
+- **Issues**: daily basis.
+- **Pull Requests**: daily basis.
 
 ## Availability
 
 How many hours does everyone have? and when are you generally available?
+| Day       | Rafael       |  Inggrit    | Saban         | Zenat               | Mahmoud  |   Ali   |
+| :-------- | :----------: | :---------: | :-----------: | :-----------------: | :------: | ------: |
+| Monday    |              | after 12:00 |               |                     |          |         |
+| Tuesday   | after 13.00  | after 12:00 |  after 14:00  |                     |          |         |
+| Wednesday | after 13:00  | after 12:00 |  after 12:00  |                     |          |         |
+| Thursday  |              |13:00 - 17.00|               |                     |          |         |
+| Friday    |              |13:00 - 17.00|               |                     |          |         |
 
 ## Asking for Help
 
