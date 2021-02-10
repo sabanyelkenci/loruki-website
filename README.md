@@ -4,14 +4,15 @@ This is a recreation project from the home page [Loruki](https://zen-carson-c10c
 
 ## Table of contents
 
-- [General info](#general-info)
-- [Group members](#group-4-members)
-- [Coach](#coach)
-- [Technologies](#technologies)
-- [Screenshots](#screenshots)
-- [Status](#status)
-- [Contributions](#contributions)
-- Launch
+- [Loruki Website](#loruki-website)
+  - [Table of contents](#table-of-contents)
+  - [General info](#general-info)
+  - [Group 4 members](#group-4-members)
+  - [Coach](#coach)
+  - [Technologies](#technologies)
+  - [Screenshots](#screenshots)
+  - [Status](#status)
+  - [Contributions](#contributions)
 
 ## General info
 
@@ -28,7 +29,8 @@ Recreating a responsive web design from [Loruki](https://zen-carson-c10c9f.netli
 
 ## Coach
 
-- 
+- [Tamer](https://github.com/talmurshidi)
+
 ## Technologies
 
 Project is created with:
