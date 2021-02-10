@@ -12,15 +12,22 @@ Daily video call organized using Zoom or Google Meet.
 
 Discussion: the group work progress and learning experience (sharing knowledge).
 
+- Monday call at 10 hours: setting up week's plan and repository
+- Tuesday call at 16 hours: discuss about backlog and wireframe
+- Wednesday call at 14: set up development strategy and project board
+- Thursday and friday working with code according assignments on development strategy
+
 ## Communication Channels
 
 As a team we come up with a plan for how to use each communication channel. What will we discuss on each one? How often will we get in touch on each channel? Below is a starter list of different ways to communicate:
 
-- **Planning Documents**: daily basis.
-- **Slack Messaging**: daily basis.
-- **Video Calls**: daily basis.
-- **Issues**: daily basis.
-- **Pull Requests**: daily basis.
+
+- **Planning Documents**: set up with video calls and individually assignments to each document
+- **Slack Messaging**: general communication
+- **Video Calls**: set up project
+- **Issues**: created according development strategy planned by call meeting
+- **Pull Requests**: for work reviews on code according assignments
+
 
 ## Availability
 
@@ -32,6 +39,11 @@ How many hours does everyone have? and when are you generally available?
 | Wednesday | after 13:00 | after 12:00 | after 19:00 | | | |
 | Thursday | |13:00 - 17.00| after 19:00 | | | |
 | Friday | |13:00 - 17.00| after 10:00 | | | |
+
+Rafael: 5 to 6 hours per day
+Saban: 5 hours per day
+Inggrit: 5 hours per day
+Zenat: Is sick now recovering
 
 ## Asking for Help
 
