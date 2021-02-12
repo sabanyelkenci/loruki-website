@@ -4,3 +4,26 @@
     overflow: auto;
     padding: 0 40px;
   }
+
+  .bg-dark,
+.btn-dark {
+  background-color: var(--dark-color);
+  color: #fff;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.py-5 {
+  padding: 4rem 0;
+}
