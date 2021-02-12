@@ -3,7 +3,7 @@
 
 This is a web site recreated from the home page [Loruki](https://zen-carson-c10c9f.netlify.app/), this web is recreated by the Group 4 of [HackYourFutureBelgium](https://hackyourfuture.be/) class-13-14 from the second module called [Incremental Development](https://github.com/HackYourFutureBelgium/incremental-development)
 
-## Group 6 members
+## Group 4 members
 
 * [Rafael](https://github.com/rago89)
 * [Inggrit E Novaleta](https://gist.github.com/inggritenovaleta)
