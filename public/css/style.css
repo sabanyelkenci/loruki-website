@@ -21,6 +21,7 @@ body {
   line-height: 1.6;
 }
 
+
 ul {
   list-style-type: none;
 }
@@ -215,6 +216,7 @@ pre {
   margin: 0 10px;
 }
 
+
 /* Tablets and under */
 @media (max-width: 768px) {
   .grid,
@@ -249,6 +251,7 @@ pre {
   
 
 /* Mobile */
+
 @media (max-width: 500px) {
   .navbar {
     height: 110px;
@@ -261,5 +264,7 @@ pre {
   .navbar ul {
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.1);
+
   }
+
 
