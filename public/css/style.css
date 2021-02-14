@@ -25,6 +25,7 @@ ul {
   list-style-type: none;
 }
 
+
 a {text-decoration: none;
   color: #333;
 }
@@ -33,7 +34,9 @@ h1,
 h2 {
   font-weight: 300;
   line-height: 1.2;
+
   margin: : 10px 0;
+
 }
 
 p {
@@ -43,18 +46,32 @@ p {
 img {
   width: 100%;
 }
-/* Navbar styling*/
+
+
+code,
+pre {
+  background: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+.hidden {
+  visibility: hidden;
+  height: 0;
+}
+
+/* Navbar */
 
 .navbar {
   background-color: var(--primary-color);
   color: #fff;
   height: 70px;
 
-}
 
 .navbar ul {
   display: flex;
 }
+
 
 .navbar a { 
   color: #fff;
@@ -68,6 +85,7 @@ img {
 
 .navbar .flex {
   justify-content: space-between;
+
 }
 
 /* Showcase */
@@ -244,3 +262,4 @@ img {
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.1);
   }
+
